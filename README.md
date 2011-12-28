@@ -10,7 +10,7 @@ A special test bed has been built that will be used for all MAP testing.
 This information is a work in progress, as new sensors are located, tested and verified the data will be added here.
 
 
-Please if you would like to donate MAP sensors for testing, please contact any FreeEMS [Forum Moderator](http://forum.diyefi.org/index.php) at [freeems.org](http://freeems.org)
+If you would like to donate MAP sensors for testing. Please contact any FreeEMS Forum [Moderator](http://forum.diyefi.org/index.php) at freeems.org
 
 ### Goals
 
