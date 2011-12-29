@@ -9,10 +9,13 @@ Items listed here will be implemented in the future.
 	- Connectors, 
 	- Wiring colours/pin outs
 	- Images
+		- Photograph toyota map
+		- Add images/links to each page
  - Setup for ratio-metric tests
+	- Document the testing process
  - Increase test bed vac ability down below 100 kPa
  
 
- *Longterm goal intergrate into website.* 
+ *Longterm goal intergrate into website, and markdown document.* 
 
 Preston.

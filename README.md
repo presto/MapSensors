@@ -7,7 +7,7 @@ If your anything like me and you have researched information about OEM Map senso
 A special test bed has been built that will be used for all MAP testing. 
 
 
-This information is a work in progress, as new sensors are located, tested and verified the data will be added here.
+This information is a *work in progress*, as new sensors are located, tested and verified the data will be added here.
 
 
 If you would like to donate MAP sensors for testing. Please contact any FreeEMS Forum [Moderator](http://forum.diyefi.org/index.php) at freeems.org
